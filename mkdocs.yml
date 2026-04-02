@@ -1,0 +1,10 @@
+site_name: Example Documentation
+site_url: https://example.com/docs
+repo_url: https://github.com/Marc-AntoineMercier/Mk-docs-example
+theme:
+  name: material
+  
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
